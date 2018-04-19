@@ -1,47 +1,20 @@
-## 快速开始
-
-本文档演示 开发者 如何快速创建一个 1688的 RAP 应用。
+## RAP
 
 
-### 1. 成为开发者，获取应用的 appkey  
-  * 在 [开放平台](https://open.1688.com/) 注册成为开发者
-  * 选择应用管理，创建新应用，选择【应用工具】-选择工具类型如：【商家端插件】，申请入驻到对应类目（需企业资质等条件）
-  * 创建应用，填写应用的基础信息，获得 appkey
+RAP: 【Rox Application Package】
 
-### 2. 搭建前端开发环境
+# Rox 介绍
+Rox  是一套基于 [Weex](https://weex-project.io/cn/)  +  [Rax](https://alibaba.github.io/rax/guide)  的基础上的面向B类电商场景的 UI 组件生态。
+由于 Rox  是一套基于 Weex+  Rax  的UI库， 理论上所有接入weex 技术的容器，都可以使用。
 
-```bash
-# 1. 安装 Node
 
-# 2. 安装 rap-cli
+RAP 容器：即1688客户端基于 Weex 上层提供的对外开放的容器代号【目前优先以Weex能力 进行对外开放】
 
-```
-
-### 3. 初始化本地 RAP 应用
-
-```bash
-$ cd [你的工作目标]
-$ rap init 
-```
-
-编写代码
-
-打开项目目录中的 pages/index/index.js, 可以查看预置代码，或稍作修改：
-
-然后运行如下命，即可本地启动开发环境
-
-```bash 
-rap dev 
-```
+RAP-SDK 【RAP容器对外暴露客户端能力的桥接, ISV开放者可以通过 RAP-SDK 使用容器提供的能力】
 
 
 
-### 4. 安装开发测试安装包
-
-
-待补充
-
-
+使用 客户端扫码 预览
 
 
 
