@@ -1,12 +1,12 @@
 # RAP
 
-![](https://img.alicdn.com/tfs/TB1ddy.m1uSBuNjSsziXXbq8pXa-685-595.png)
+<img src="https://img.alicdn.com/tfs/TB1ddy.m1uSBuNjSsziXXbq8pXa-685-595.png" width = "100" />
 
 RAP: 即【Rox Application Package】缩写
 
 ## Rox 介绍
 
-![](https://gw.alicdn.com/tfs/TB1e0qEmVuWBuNjSszbXXcS7FXa-400-400.png)
+<img src="https://gw.alicdn.com/tfs/TB1e0qEmVuWBuNjSszbXXcS7FXa-400-400.png" width = "100" />
 
 Rox  是一套基于 [Weex](https://weex-project.io/cn/)  +  [Rax](https://alibaba.github.io/rax/guide)  的基础上的面向B类电商场景的 UI 组件生态。
 
