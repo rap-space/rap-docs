@@ -1,3 +1,11 @@
+---
+order: 1
+title: 开发ISV插件的步骤
+groupOrder: 1
+group: 快速上手
+---
+
+
 ## 开发ISV插件的步骤
 ```plain
 1. 申请AppKey

@@ -1,3 +1,10 @@
+---
+order: 1
+title: RAP
+groupOrder: 1
+group: 快速上手
+---
+
 # RAP
 
 <img src="https://img.alicdn.com/tfs/TB1ddy.m1uSBuNjSsziXXbq8pXa-685-595.png" width = "100" />
