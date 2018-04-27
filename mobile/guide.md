@@ -59,3 +59,10 @@ $ rap dev
 
 
 > 插件可暂时先联系 @派朴(pipe.zkk) 内部协助发布。
+
+
+## Rox-支持社区
+
+如其他疑问的，可以扫描进群哈~
+
+![](https://img.alicdn.com/tfs/TB1CecNowmTBuNjy1XbXXaMrVXa-1242-1602.jpg)
