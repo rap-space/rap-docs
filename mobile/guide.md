@@ -19,7 +19,7 @@ group: 快速上手
 * [Mac](http://rap-package.oss-cn-beijing.aliyuncs.com/rap.pkg)
 * [Windows](http://rap-package.oss-cn-beijing.aliyuncs.com/rap.msi)
 
-#### 开发插件
+#### 开发插件
 
 安装完 `rap-cli` 后， 即可开始进行插件开发。 具体步骤如下：
 
@@ -29,7 +29,7 @@ $ rap init
 $ rap dev
 ```
 
-你也可以参考：[终端操作记录](https://asciinema.org/a/CnJg7kGxSugNysECVwRdNdudC)。
+你也可以参考：[终端操作记录](https://asciinema.org/a/CnJg7kGxSugNysECVwRdNdudC)。
 
 #### Done！🎉
 
@@ -40,9 +40,9 @@ $ rap dev
 * 点击 `打开页面`，即能在游览器端查看、调试您所开发的页面
 * 点击 `RAP-扫描测试`，使用阿里巴巴测试包扫描即可在端上查看页面效果
 
-## 插件创建流程
+## 插件创建流程
 
-插件创建、管理、发布等流程均在 [阿里巴巴开放平台](https://open.1688.com/) 操作。
+插件创建、管理、发布等流程均在 [阿里巴巴开放平台](https://open.1688.com/) 操作。
 
 ### 申请 AppKey
 
