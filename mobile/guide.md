@@ -63,6 +63,12 @@ ThemeProvider 只是提供主题能力，本身并不会 产生内容，故无�
 * 点击 `打开页面`，即能在游览器端查看、调试您所开发的页面
 * 点击 `RAP-扫描测试`，使用阿里巴巴测试包扫描即可在端上查看页面效果
 
+#### 阿里巴巴测试包下载
+
+| iOS 测试包 | Android 测试包 |
+| --- | --- |
+| ![](https://img.alicdn.com/tfs/TB1FebVoHSYBuNjSspfXXcZCpXa-280-280.png) | ![](https://gw.alicdn.com/tfs/TB14WHNoQCWBuNjy0FaXXXUlXXa-280-280.png) |
+
 ## 插件创建流程
 
 插件创建、管理、发布等流程均在 [阿里巴巴开放平台](https://open.1688.com/) 操作。
