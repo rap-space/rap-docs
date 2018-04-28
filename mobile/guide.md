@@ -63,6 +63,6 @@ $ rap dev
 
 ## Rox-支持社区
 
-如其他疑问的，可以扫描进群哈~
+如其他疑问的，可以扫描进群哈~
 
 ![](https://img.alicdn.com/tfs/TB1CecNowmTBuNjy1XbXXaMrVXa-1242-1602.jpg)
