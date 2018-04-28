@@ -31,9 +31,32 @@ $ rap dev
 
 你也可以参考：[终端操作记录](https://asciinema.org/a/CnJg7kGxSugNysECVwRdNdudC)。
 
+#### 主题
+
+为了让组件在 1688 主客上正确的渲染出符合 1688 无线设计规范的样子，需要在页面最外层包裹一个 ThemeProvider：
+
+```js
+import { createElement, render, Component } from 'rax'
+import { ThemeProvider, Button } from 'rox-components'
+
+class App extends Component {
+  render() {
+    return (
+      <ThemeProvider>
+        <Button type="primary">你好，阿牛！</Button>
+      </ThemeProvider>
+    )
+  }
+}
+
+render(<App />)
+```
+
+ThemeProvider 只是提供主题能力，本身并不会 产生内容，故无需担心嵌套层级的问题。
+
 #### Done！🎉
 
-以上两步，就已经完成基础的插件开发。打开 [http://127.0.0.1:8888/demo/entry](http://127.0.0.1:8888/demo/entry) 页面，即可看到类似于以下界面：
+在完成基础的插件开发。打开 [http://127.0.0.1:8888/demo/entry](http://127.0.0.1:8888/demo/entry) 页面，即可看到类似于以下界面：
 
 ![](https://img.alicdn.com/tfs/TB1592LoTtYBeNjy1XdXXXXyVXa-2038-390.png)
 
