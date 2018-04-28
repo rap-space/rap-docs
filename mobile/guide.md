@@ -88,5 +88,5 @@ ThemeProvider 只是提供主题能力，本身并不会 产生内容，故无�
 
 如其他疑问的，可以扫描进群哈~
 
-<img src="//img.alicdn.com/tfs/TB1CecNowmTBuNjy1XbXXaMrVXa-1242-1602.jpg" style="width: 200px;height: 200px;">
+<img src="//img.alicdn.com/tfs/TB1CecNowmTBuNjy1XbXXaMrVXa-1242-1602.jpg" style="width: 400px;">
 <!-- ![](https://img.alicdn.com/tfs/TB1CecNowmTBuNjy1XbXXaMrVXa-1242-1602.jpg) -->
