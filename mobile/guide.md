@@ -16,8 +16,8 @@ group: 快速上手
 #### 安装 CLI 工具
 
 下载 `rap-cli` 安装包，点击运行安装包即可。下载的地址为：
-* [Mac](http://rap-package.oss-cn-beijing.aliyuncs.com/rap.pkg)
-* [Windows](http://rap-package.oss-cn-beijing.aliyuncs.com/rap.msi)
+* [Mac](http://p.tb.cn/rmsportal_13185_rap.mac.zip)
+* [Windows](http://p.tb.cn/rmsportal_13185_rap.windows.zip)
 
 #### 开发插件
 
