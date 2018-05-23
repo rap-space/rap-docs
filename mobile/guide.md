@@ -15,7 +15,7 @@ group: 快速上手
 
 #### 安装 CLI 工具
 
-下载 `rap-cli` 安装包，点击运行安装包即可。下载的地址为[rap-cli/release](https://github.com/rap-space/rap-cli/releases/tag/1.0.0)。
+下载 `rap-cli` 安装包，点击运行安装包即可。下载的地址为[rap-cli/release](https://github.com/rap-space/rap-cli/releases)。
 
 #### 开发插件
 
